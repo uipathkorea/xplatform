@@ -64,6 +64,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="WindowHandleInfo.cs" />
     <Compile Include="GreetingActivity.cs" />
     <Compile Include="ExtractTableActivity.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

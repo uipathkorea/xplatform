@@ -50,7 +50,6 @@ namespace XPlatformActivity
 
         // table의 role type이 row 이거나 outline 이거나 
         private string []roles = { "row", "outline item" };
-        private string NO_NAME_COLULMN = "Column{0}";
 
         private string GetSelectorType( string hdr, string role)
         {
